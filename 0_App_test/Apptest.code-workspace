@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"beep.h": "c",
+			"types.h": "c",
+			"stdio.h": "c",
+			"common.h": "c",
+			"debug.h": "c",
+			"typedefs.h": "c",
+			"gui_log_console.h": "c",
+			"stdbool.h": "c",
+			"cstdbool": "c",
+			"led.h": "c",
+			"lcd.h": "c",
+			"limits.h": "c",
+			"buttons.h": "c",
+			"resources.h": "c",
+			"english.h": "c",
+			"wifi_task.h": "c"
+		}
+	}
+}
